@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.university.geeks</groupId>
-    <artifactId>university-geeks-04-xlass</artifactId>
+    <artifactId>university-geeks-04-loadXlass</artifactId>
     <version>1.0</version>
     <build>
         <plugins>
