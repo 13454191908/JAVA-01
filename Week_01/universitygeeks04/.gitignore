@@ -1,0 +1,12 @@
+*.class
+*.log
+*.log.*
+
+# IntelliJ project files
+.idea
+*.iml
+.DS_Store
+
+# Package Files #
+*.jar
+*.war
